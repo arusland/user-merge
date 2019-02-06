@@ -1,0 +1,5 @@
+user1 -> xxx@ya.ru, xxx@ya.ru, xxx@ya.ru
+user2 -> xxx@ya.ru, xxx@ya.ru
+user3 -> xxx@ya.ru, xxx@ya.ru
+user4 -> xxx@ya.ru, xxx@ya.ru
+user5 -> xxx@ya.ru
