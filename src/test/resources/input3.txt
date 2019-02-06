@@ -1,0 +1,5 @@
+superuser1 -> xxx@ya.ru, foo@gmail.com, lol@mail.ru
+superuser2 -> bar@gmail.com, ups@pisem.net
+superuser3 -> xyz@pisem.net, vasya@pupkin.com
+superuser4 -> miror@pisem.net, aaa@bbb.ru
+superuser5 -> abc@pisem.net
